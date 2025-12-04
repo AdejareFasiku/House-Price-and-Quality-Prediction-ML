@@ -37,6 +37,7 @@ The project demonstrates end-to-end machine learning workflows including data cl
 
 ## 📂 Project Structure
 House-Price-and-Quality-Prediction-ML/
+
 │
 ├── data/
 │ ├── train.csv

@@ -1,0 +1,94 @@
+# -------------------------------
+# Python Cache & Build Files
+# -------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.exe
+*.egg
+*.egg-info/
+dist/
+build/
+
+# -------------------------------
+# Virtual Environments
+# -------------------------------
+venv/
+env/
+.venv/
+ENV/
+
+# -------------------------------
+# Jupyter Notebook Checkpoints
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# OS / Editor Files
+# -------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# -------------------------------
+# Logs & Outputs
+# -------------------------------
+*.log
+*.out
+*.err
+
+# -------------------------------
+# ML / Data Files
+# -------------------------------
+# Ignore all data files...
+data/*
+
+# ...EXCEPT these:
+!data/train.csv
+!data/test.csv
+!data/data_description.txt
+
+# -------------------------------
+# Model Files
+# -------------------------------
+*.pkl
+*.joblib
+models/
+checkpoints/
+
+# -------------------------------
+# Jupyter Notebook Metadata Noise
+# -------------------------------
+*.nbconvert.ipynb
+
+# -------------------------------
+# Environment / Dependency Files
+# -------------------------------
+*.env
+.env.*
+*.yaml
+*.yml
+
+# -------------------------------
+# Temporary Files
+# -------------------------------
+tmp/
+temp/
+*.tmp
+*.bak
+
+# -------------------------------
+# Reports / Generated Files
+# -------------------------------
+*.docx
+*.pdf
+
+# -------------------------------
+# Generated Images
+# -------------------------------
+*.png
+*.jpg
+*.jpeg
+plots/
+figures/

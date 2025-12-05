@@ -39,7 +39,9 @@ The project demonstrates end-to-end machine learning workflows including data cl
 House-Price-and-Quality-Prediction-ML/
 
 │
+
 ├── data/
+
 │ ├── train.csv
 │ ├── test.csv
 │ └── data_description.txt
@@ -140,5 +142,5 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/AdejareFasiku/House-Price-and-Quality-Prediction-ML.git
+cd <House-Price-and-Quality-Prediction-ML>

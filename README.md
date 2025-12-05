@@ -36,15 +36,17 @@ The project demonstrates end-to-end machine learning workflows including data cl
 ---
 
 ## 📂 Project Structure
+
+```text
 House-Price-and-Quality-Prediction-ML/
 │
 ├── data/
-│ ├── train.csv
-│ ├── test.csv
-│ └── data_description.txt
+│   ├── train.csv
+│   ├── test.csv
+│   └── data_description.txt
 │
 ├── notebooks_complete/
-│ └── House_Prediction.ipynb.pdf # Full EDA + modeling notebook
+│   └── House_Prediction.ipynb.pdf   # Full EDA + modeling notebook
 │
 ├── House_Prediction.ipynb
 ├── README.md

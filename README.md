@@ -46,9 +46,9 @@ House-Price-and-Quality-Prediction-ML/
 │   └── data_description.txt
 │
 ├── notebooks_complete/
-│   └── House_Prediction.ipynb.pdf   # Full EDA + modeling notebook
+│   └── House_Predic_RG_CL_ML_copy.ipynb - Colab.pdf   # Full EDA + modeling notebook
 │
-├── House_Prediction.ipynb
+├── House_Predic_RG_CL_ML_copy.ipynb
 ├── README.md
 └── requirements.txt
 ```
